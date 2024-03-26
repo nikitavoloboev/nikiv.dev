@@ -1,26 +1,26 @@
 ## Animals
 
-Becoming conscious of the impact my decisions have on this planet and other living beings and eating only{" "} [whole food plant based diet](https://wiki.nikiv.dev/health/nutrition/) {" "} has been one of the best decisions I made thus far in my life.
+Becoming conscious of the impact my decisions have on this planet and other living beings and eating only [whole food plant based diet](https://wiki.nikiv.dev/health/nutrition/) has been one of the best decisions I made thus far in my life.
 
-I think everyone has a choice nowadays of what they can eat and{" "} [animal suffering can be avoided](https://wiki.nikiv.dev/environment/veganism) .
+I think everyone has a choice nowadays of what they can eat and [animal suffering can be avoided](https://wiki.nikiv.dev/environment/veganism) .
 
 ## Sharing
 
 I love [sharing things](https://wiki.nikiv.dev/sharing/) I make and I am open about most things I do and like.
 
-I share most of the code I write{" "} [open source](https://github.com/nikitavoloboev#src) for everyone to use and reuse as they like.
+I share most of the code I write [open source](https://github.com/nikitavoloboev#src) for everyone to use and reuse as they like.
 
 ## Writing
 
-I share my knowledge and experiences by writing about it in my own{" "} [personal wiki](https://wiki.nikiv.dev/) in the spirit of continuous learning.
+I share my knowledge and experiences by writing about it in my own [personal wiki](https://wiki.nikiv.dev/) in the spirit of continuous learning.
 
 ## Music
 
-I love listening to{" "} [new and interesting music](https://open.spotify.com/user/nikitavoloboev) {" "} and I curate{" "} [many playlists of music I like](https://wiki.nikiv.dev/music/music-playlists) .
+I love listening to [new and interesting music](https://open.spotify.com/user/nikitavoloboev) and I curate [many playlists of music I like](https://wiki.nikiv.dev/music/music-playlists) .
 
 ## Photographs
 
-I love{" "} [making photographs](https://www.instagram.com/nikitavoloboev) {" "} and collecting{" "} [beautiful pictures](https://www.instagram.com/prettiways/).
+I love [making photographs](https://www.instagram.com/nikitavoloboev) and collecting [beautiful pictures](https://www.instagram.com/prettiways/).
 
 ## Great Software
 
@@ -35,17 +35,17 @@ And [many more](https://wiki.nikiv.dev/sharing/my-workflow).
 
 ## Automation
 
-I am obsessed with automation and productivity. And I like to share all the interesting things I learn on this{" "} [journey to a perfect setup](https://wiki.nikiv.dev/sharing/my-workflow) .
+I am obsessed with automation and productivity. And I like to share all the interesting things I learn on this [journey to a perfect setup](https://wiki.nikiv.dev/sharing/my-workflow) .
 
 ## Simplicity
 
-I love{" "} [using only what I need](https://wiki.nikiv.dev/minimalism/){" "} and nothing else. If something brings no value to my life, I get rid of it.
+I love [using only what I need](https://wiki.nikiv.dev/minimalism/) and nothing else. If something brings no value to my life, I get rid of it.
 
-I love [focusing](https://wiki.nikiv.dev/focusing/) on{" "} [solving problems](https://wiki.nikiv.dev/research/solving-problems) {" "} that matter to me. Cutting out any noise or distractions in the process.
+I love [focusing](https://wiki.nikiv.dev/focusing/) on [solving problems](https://wiki.nikiv.dev/research/solving-problems) that matter to me. Cutting out any noise or distractions in the process.
 
 ## Better future
 
-I am excited for the{" "} [incredible future we can have](https://wiki.nikiv.dev/future/) {" "} if we work towards it. More rights to people, no more oppressive regimes, no more centralized platforms,{" "} [better privacy for all](https://github.com/nikitavoloboev/privacy-respecting) .
+I am excited for the [incredible future we can have](https://wiki.nikiv.dev/future/) if we work towards it. More rights to people, no more oppressive regimes, no more centralized platforms, [better privacy for all](https://github.com/nikitavoloboev/privacy-respecting) .
 
 ## Quotes
 
@@ -53,7 +53,7 @@ Below are some of my favorite quotes that I love. Starting with my favorite quot
 
 > We thought of life by analogy with a journey, a pilgrimage, which had a serious purpose at the end, and the thing was to get to that end, success or whatever it is, maybe heaven after you’re dead. But we missed the point the whole way along. It was a musical thing and you were supposed to sing or to dance while the music was being played.
 
-If you don't know Alan Watts, I recommend you{" "} [check who he is](http://www.alanwatts.com). He wrote a{" "} [few books](https://www.goodreads.com/author/show/1501668.Alan_W_Watts) {" "} and did{" "} [many talks](https://wiki.nikiv.dev/humans/alan-watts).
+If you don't know Alan Watts, I recommend you [check who he is](http://www.alanwatts.com). He wrote a [few books](https://www.goodreads.com/author/show/1501668.Alan_W_Watts) and did [many talks](https://wiki.nikiv.dev/humans/alan-watts).
 
 > When you change yourself you change the world.
 >
