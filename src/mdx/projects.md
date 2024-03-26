@@ -1,4 +1,4 @@
-I am currently making [Learn Anything](https://learn-anything.xyz) {" & "} [KusKus](https://kuskus.app). [Sharing things](https://wiki.nikiv.dev/sharing/), writing a [wiki](https://wiki.nikiv.dev/) and building [ideas](https://wiki.nikiv.dev/ideas/).
+I am currently making [Learn Anything](https://learn-anything.xyz) & [KusKus](https://kuskus.app). [Sharing things](https://wiki.nikiv.dev/sharing/), writing a [wiki](https://wiki.nikiv.dev/) and building [ideas](https://wiki.nikiv.dev/ideas/).
 
 All my code projects can be neatly seen [here](https://github.com/nikitavoloboev#src). In more detail they are:
 
