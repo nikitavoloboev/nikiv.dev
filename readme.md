@@ -2,7 +2,7 @@
 
 Old website code is in [here](https://github.com/nikitavoloboev/past/tree/main/may/nikiv.dev).
 
-New will be written in Next.js with new design soon.
+New is written in Next.js with [Ronin](https://ronin.co) for assets.
 
 ### 🖤
 
