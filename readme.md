@@ -1,0 +1,11 @@
+# [nikiv.dev](https://nikiv.dev)
+
+Old website code is in [here](https://github.com/nikitavoloboev/past/tree/main/may/nikiv.dev).
+
+New will be written in Next.js with new design soon.
+
+### 🖤
+
+[Support on GitHub](https://github.com/sponsors/nikitavoloboev) or look into [other projects](https://nikiv.dev/projects).
+
+[![Discord](https://img.shields.io/badge/Discord-100000?style=flat&logo=discord&logoColor=white&labelColor=black&color=black)](https://discord.com/invite/TVafwaD23d) [![X](https://img.shields.io/badge/nikitavoloboev-100000?logo=X&color=black)](https://x.com/nikitavoloboev) [![nikiv.dev](https://img.shields.io/badge/nikiv.dev-black)](https://nikiv.dev)
