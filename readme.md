@@ -1,5 +1,7 @@
 # [nikiv.dev](https://nikiv.dev)
 
+> Personal website
+
 Old website code is in [here](https://github.com/nikitavoloboev/past/tree/main/may/nikiv.dev).
 
 New is written in Next.js with [Ronin](https://ronin.co) for assets.
