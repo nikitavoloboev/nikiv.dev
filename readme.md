@@ -2,7 +2,7 @@
 
 > Personal website
 
-Old website code is in [here](https://github.com/nikitavoloboev/past/tree/main/may/nikiv.dev).
+Old website code is in [here](https://github.com/nikitavoloboev/past/tree/main/24/may/nikiv.dev).
 
 New is written in Next.js with [Ronin](https://ronin.co) for assets.
 
