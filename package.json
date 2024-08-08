@@ -9,9 +9,10 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "next": "14.2.5",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
-    "next": "14.2.5"
+    "ronin": "^4.1.15"
   },
   "devDependencies": {
     "@ronin/nikiv": "^0.0.0-3445658926771",
