@@ -10,7 +10,6 @@ yarn.lock
 .vinxi
 
 /build/
-/api/
 /server/build
 /public/build
 .vinxi
