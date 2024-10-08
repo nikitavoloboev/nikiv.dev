@@ -11,6 +11,19 @@ const app = new Elysia()
   .get("/", async () => {
     return "ok"
   })
+  .post(
+    "/save-link",
+    async ({ body }) => {
+      const {} = body
+    },
+    {
+      body: t.Object({
+        title: t.String(),
+        url: t.String(),
+        top: t.Optional(t.Boolean()),
+      }),
+    },
+  )
   .listen(process.env.PORT ?? 8787)
 
 export type App = typeof app
