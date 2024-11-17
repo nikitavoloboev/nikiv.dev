@@ -12,4 +12,7 @@ pnpm-lock.yaml
 .vercel
 private
 private.*
+private-*
 past.*
+past-*
+scripts/run.ts
