@@ -16,7 +16,7 @@ function RouteComponent() {
           photos on <a href="https://instagram.com/nikitavoloboev">IG</a>.
         </p>
         <p className="mt-5">
-          My previous site is <a href="https://2023.nikiv.dev">here</a>.
+          My previous site is <a href="https://23-personal.nikiv.dev">here</a>.
         </p>
       </div>
     </>
