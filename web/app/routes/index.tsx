@@ -17,6 +17,7 @@ function RouteComponent() {
         </p>
         <p className="mt-5">
           My previous site is <a href="https://23-personal.nikiv.dev">here</a>.
+          I once had a <a href="https://wiki.nikiv.dev">wiki</a>.
         </p>
       </div>
     </>
