@@ -12,8 +12,9 @@ function RouteComponent() {
           and some <a href="https://github.com/nikitavoloboev">other things</a>.
         </p>
         <p>
-          I share thoughts on <a href="https://x.com/nikitavoloboev">X</a> and
-          photos on <a href="https://instagram.com/nikitavoloboev">IG</a>.
+          I share thoughts on <a href="https://x.com/nikitavoloboev">X</a>,
+          photos on <a href="https://instagram.com/nikitavoloboev">IG</a>, songs
+          on <a href="https://open.spotify.com/user/nikitavoloboev">Spotify</a>.
         </p>
         <p className="mt-5">
           In Madrid now. <a href="https://x.com/nikitavoloboev">Reach out</a> if
