@@ -9,7 +9,7 @@ function RouteComponent() {
           <a href="https://github.com/learn-anything/learn-anything">
             learn anything
           </a>{" "}
-          and some <a href="https://github.com/nikitavoloboev">other things</a>.
+          and <a href="https://github.com/nikitavoloboev">other things</a>.
         </p>
         <p>
           I share thoughts on <a href="https://x.com/nikitavoloboev">X</a>,
