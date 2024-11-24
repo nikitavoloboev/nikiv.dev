@@ -7,7 +7,7 @@ function RouteComponent() {
         <p>
           I work on{" "}
           <a href="https://github.com/learn-anything/learn-anything">
-            learn anything
+            Learn Anything
           </a>{" "}
           and <a href="https://github.com/nikitavoloboev">other things</a>.
         </p>
