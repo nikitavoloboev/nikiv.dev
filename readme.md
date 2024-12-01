@@ -1,18 +1,6 @@
 # [nikiv.dev](https://nikiv.dev)
 
-## Setup
-
-In [web](web):
-
-```
-bun i
-```
-
-## Run
-
-```
-bun dev
-```
+See [web](web) for how to run website.
 
 Past website version can be seen [here](https://github.com/nikitavoloboev/past/tree/main/24/november/nikiv.dev).
 
