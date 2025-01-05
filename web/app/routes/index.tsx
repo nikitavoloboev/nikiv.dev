@@ -18,8 +18,8 @@ function RouteComponent() {
           you want to talk.
         </p>
         <p>
-          I have a <a href="https://wiki.nikiv.dev">wiki</a>. My previous site
-          is <a href="https://23-personal.nikiv.dev">here</a>.
+          I have a <a href="https://docs.nikiv.dev">wiki</a> of things I know or
+          liked.
         </p>
       </div>
     </>
