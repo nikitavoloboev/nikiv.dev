@@ -18,7 +18,7 @@ function RouteComponent() {
           you want to talk.
         </p>
         <p>
-          I have a <a href="https://docs.nikiv.dev">wiki</a> of{" "}
+          I have extensive <a href="https://docs.nikiv.dev">wiki</a> of{" "}
           <a href="https://docs.nikiv.dev/learn">things I know</a>{" "}
           <a href="https://docs.nikiv.dev/likes">liked</a>.
         </p>
