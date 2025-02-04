@@ -16,7 +16,7 @@ function RouteComponent() {
           on <a href="https://open.spotify.com/user/nikitavoloboev">Spotify</a>.
         </p>
         <p className="mt-3">
-          I have a <a href="https://docs.nikiv.dev">wiki</a> of things I{" "}
+          I have <a href="https://docs.nikiv.dev">wiki</a> of things I{" "}
           <a href="https://docs.nikiv.dev/learn">know</a> or{" "}
           <a href="https://docs.nikiv.dev/likes">liked</a>.
         </p>
