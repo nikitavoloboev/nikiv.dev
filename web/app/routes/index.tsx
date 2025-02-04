@@ -15,12 +15,12 @@ function RouteComponent() {
           photos on <a href="https://instagram.com/nikitavoloboev">IG</a>, songs
           on <a href="https://open.spotify.com/user/nikitavoloboev">Spotify</a>.
         </p>
-        <p>
+        <p className="mt-3">
           I have a <a href="https://docs.nikiv.dev">wiki</a> of things I{" "}
           <a href="https://docs.nikiv.dev/learn">know</a> or{" "}
           <a href="https://docs.nikiv.dev/likes">liked</a>.
         </p>
-        <p className="mt-5">
+        <p>
           <a href="https://x.com/nikitavoloboev">Reach out</a> if you want to
           talk.
         </p>
