@@ -1,5 +1,6 @@
 import { createFileRoute } from "@tanstack/react-router"
 
+// TODO: make this .mdx
 function RouteComponent() {
   return (
     <>
