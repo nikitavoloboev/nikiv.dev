@@ -21,6 +21,7 @@ past.*
 past-*
 *.bike
 *.db
+.repo_ignore
 
 # generated content
 .contentlayer
@@ -45,3 +46,5 @@ yarn-error.log*
 # others
 .env*.local
 next-env.d.ts
+
+!past.mdx
