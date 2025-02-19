@@ -27,6 +27,7 @@ export const metadata: Metadata = {
     index: true,
     follow: true,
   },
+  keywords: ["nikita voloboev", "personal site", "docs"],
 }
 
 export default function Layout({ children }: { children: ReactNode }) {
