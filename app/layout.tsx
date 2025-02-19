@@ -10,14 +10,14 @@ const inter = Inter({
 
 export const metadata: Metadata = {
   title: {
-    default: "nikiv.dev | personal site, docs, ui",
+    default: "nikiv.dev | Personal website, docs",
     template: "%s | nikiv.dev",
   },
-  description: "nikiv.dev | personal site, docs, ui",
+  description: "Personal website, docs",
   metadataBase: new URL("https://nikiv.dev"),
   openGraph: {
     title: "nikiv.dev",
-    description: "nikiv.dev | personal site, docs, ui",
+    description: "Personal website, docs",
     url: "https://nikiv.dev",
     siteName: "nikiv.dev",
     locale: "en_US",
@@ -27,7 +27,15 @@ export const metadata: Metadata = {
     index: true,
     follow: true,
   },
-  keywords: ["nikita voloboev", "personal site", "docs"],
+  keywords: [
+    "nikiv",
+    "nikita voloboev",
+    "personal website",
+    "docs",
+    "looking back",
+    "solbond",
+    "learn anything",
+  ],
 }
 
 export default function Layout({ children }: { children: ReactNode }) {
