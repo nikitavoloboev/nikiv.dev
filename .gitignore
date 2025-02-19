@@ -1,27 +1,5 @@
-# core
-.DS_Store
-.env
-.env*.local
-output
-dist
-target
-.idea
-.cache
-.output
-node_modules
-package-lock.json
-yarn.lock
-pnpm-lock.yaml
-.vercel
-private
-private.*
-private-*
-p-*
-past.*
-past-*
-*.bike
-*.db
-.repo_ignore
+# deps
+/node_modules
 
 # generated content
 .contentlayer
@@ -36,6 +14,7 @@ past-*
 *.tsbuildinfo
 
 # misc
+.DS_Store
 *.pem
 /.pnp
 .pnp.js
@@ -45,6 +24,5 @@ yarn-error.log*
 
 # others
 .env*.local
+.vercel
 next-env.d.ts
-
-!past.mdx

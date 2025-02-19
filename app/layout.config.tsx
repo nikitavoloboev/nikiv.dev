@@ -9,13 +9,9 @@ import type { BaseLayoutProps } from "fumadocs-ui/layouts/shared"
  */
 export const baseOptions: BaseLayoutProps = {
   nav: {
-    title: "Docs",
+    title: "nikiv.dev",
   },
   links: [
-    {
-      text: "Home",
-      url: "https://nikiv.dev",
-    },
     {
       text: "GitHub",
       url: "https://github.com/nikitavoloboev",
