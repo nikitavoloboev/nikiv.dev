@@ -15,6 +15,7 @@ export const metadata: Metadata = {
   },
   description: "Personal website, docs",
   metadataBase: new URL("https://nikiv.dev"),
+  // TODO: not sure if this is applied
   openGraph: {
     title: "nikiv.dev",
     description: "Personal website, docs",

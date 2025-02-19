@@ -41,7 +41,7 @@ export async function generateMetadata(props: {
   if (!page) notFound()
 
   const title = page.data.title
-  const description = page.data.description
+  const description = page.data.description || "Personal website, docs"
 
   return {
     title,
